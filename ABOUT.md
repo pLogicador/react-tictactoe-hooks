@@ -8,7 +8,7 @@ Este é um jogo da velha (Tic Tac Toe) interativo desenvolvido com **React**. El
 - **React Context API**: Para gerenciamento de estado global (ex. estado do tabuleiro, jogador atual, vencedor, histórico).
 - **PropTypes**: Para validação das propriedades dos componentes.
 - **UUID**: Para garantir que cada item renderizado tenha uma chave única.
-- 
+
 ## Funcionalidades
 - **Tabuleiro interativo**: O usuário pode clicar nas células para jogar, alternando entre '`X`' e '`O`'.
 - **Verificação de vencedor**: Após cada jogada, o sistema verifica se houve um vencedor ou empate.
